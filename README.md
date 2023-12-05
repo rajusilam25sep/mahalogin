@@ -12,9 +12,4 @@ this is for git hooks  of mahalogin
 9th commit
 10th commit
 11th commit
-12th commit
-13th commit
-14th commit
-15th ommi
-194 th dsod
-18th commit
+
